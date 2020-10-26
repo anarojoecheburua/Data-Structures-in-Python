@@ -1,4 +1,5 @@
 # Data-Structures-in-Python
+<br/>
 A summary of data structures in Python. It contains a pdf and a Jupiter Notebook covering the following topics:
 List
   Creating a list
