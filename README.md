@@ -2,7 +2,7 @@
 <br/>
 A summary of data structures in Python. It contains a pdf and a Jupiter Notebook covering the following topics:
 <br/>
- Markup : * List <br/>
+* List
   Creating a list <br/>
   Adding elements to a list: append, insert and extend methods<br/>
   Accessing elements from a list <br/>
