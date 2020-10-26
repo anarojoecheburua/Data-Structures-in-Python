@@ -1,9 +1,10 @@
 # Data-Structures-in-Python
 <br/>
 A summary of data structures in Python. It contains a pdf and a Jupiter Notebook covering the following topics:
-List
-  Creating a list
-  Adding elements to a list: append, insert and extend methods
+<br/>
+* List
+  ** Creating a list
+  ** Adding elements to a list: append, insert and extend methods
   Accessing elements from a list
   Removing elements from a list: remove and pop methods
   Slicing of a list
