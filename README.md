@@ -2,14 +2,14 @@
 <br/>
 A summary of data structures in Python. It contains a pdf and a Jupiter Notebook covering the following topics:
 <br/>
-* List
-  ** Creating a list
-  ** Adding elements to a list: append, insert and extend methods
-  Accessing elements from a list
-  Removing elements from a list: remove and pop methods
-  Slicing of a list
-Tuple
-Set
+List <br/>
+  ** Creating a list <br/>
+  ** Adding elements to a list: append, insert and extend methods<br/>
+  Accessing elements from a list <br/>
+  Removing elements from a list: remove and pop methods<br/>
+  Slicing of a list<br/>
+Tuple <br/>
+Set <br/>
   Changing, adding and removing items in a set
   Other useful set methods for sets
 Dictionary
